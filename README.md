@@ -3,7 +3,7 @@
 End-to-end data analytics project: raw relational data → cleaned SQL database → interactive dashboard.
 Analysis of **98,199 orders** (~₹13.5M in revenue) from a real Brazilian e-commerce marketplace.
 
-**[View the live dashboard →](https://vedant01111.github.io/Olist-ecommerce-dashboard/dashboard.html)** *(open directly, or host free on GitHub Pages)*
+**[View the live dashboard →](https://vedant01111.github.io/Olist-ecommerce-dashboard/dashboard.html)
 
 ## Overview
 This project models a 9-table relational e-commerce database from scratch, writes SQL to answer real business questions, and visualizes the results in an interactive dashboard — covering revenue trends, category performance, delivery logistics, and customer satisfaction.
